@@ -53,3 +53,29 @@ without escapting anything.
   uncompressed code.**
 * I will probably accept bug fixes.
 * Commit messages have to be in Klingon.
+
+## FAQ
+
+### Why are there no tests?
+
+Specs are for the weak and timid!
+
+### Why are there no releases tagged?
+
+Klingons do not make software 'releases'. Our software 'escapes'.
+Typically leaving a bloody trail of designers and quality assurance
+people in its wake.
+
+### You do not handle user-caused parse errors.
+
+Defensive programming? Never! Klingon programs are always on the
+offense. Yes, Offensive programming is what we do best.
+
+### Your function invocations are missing parameters.
+
+Klingon function calls do not have 'parameters' - they have
+'arguments' - and they ALWAYS WIN THEM.
+
+### Your code does not work in IE.
+
+Nobody uses that Ferengi crap anyway.
