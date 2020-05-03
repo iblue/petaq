@@ -79,3 +79,27 @@ Klingon function calls do not have 'parameters' - they have
 ### Your code does not work in IE.
 
 Nobody uses that Ferengi crap anyway.
+
+### Does it work in containerized environments (like docker)?
+
+How dare you! Klingon software is not to be locked in a cage like a tarQ! May your whole family die of old age!
+
+### Is it ready for production?
+
+Klingon software is always ready, we are prepared for anything! However, it crashes from time to time. When it does, it leaves a crater.
+
+### Where is the documentation?
+
+Documentation? There is an opera, retelling the legend of its battles.
+
+### How does it perform?
+
+It once cut fourthousand throats in once night!
+
+### Where do I send bug reports?
+
+A warrior does not complain.
+
+### Does this ever stop?
+
+I will surrender when the spirits escape from ghe'tor.
