@@ -94,7 +94,7 @@ Documentation? There is an opera, retelling the legend of its battles.
 
 ### How does it perform?
 
-It once cut fourthousand throats in once night!
+It once cut fourthousand throats in one night!
 
 ### Where do I send bug reports?
 
@@ -103,3 +103,7 @@ A warrior does not complain.
 ### Does this ever stop?
 
 I will surrender when the spirits escape from ghe'tor.
+
+### Is this project still maintained?
+
+Klingon software does not need maintanance. It was perfect from the day it was built and it will stand for fourthousand years. Like the empire.
